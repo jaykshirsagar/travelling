@@ -7,7 +7,7 @@ public class TicketCounter {
     public TicketCounter() {
     }
 
-    //TODO: punctul 3
+    //TODO: punctul 2
 //    public void vindeBilet(String numeCalator) {
 //        if (bileteDisponibile > 0) {
 //            System.out.println(numeCalator + " cumpără bilet. Bilete rămase: "
@@ -18,7 +18,7 @@ public class TicketCounter {
 //        }
 //    }
 
-    //TODO: punctul 4
+    //TODO: punctul 3
 //    public synchronized void vindeBilet(String numeCalator) {
 //        if (bileteDisponibile > 0) {
 //            System.out.println(numeCalator + " cumpără bilet. Bilete rămase: "
